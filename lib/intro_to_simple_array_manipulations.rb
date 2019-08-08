@@ -14,13 +14,21 @@ def "using_pop" do
 end
 
 def "pop_with_args" do
-  @dog_breeds.pop
+  @small_dogs = @dog_breeds.pop
 
-dog_breeds
+@small_dogs
 
 end
 
 def "using_shift" do
   lagos =  @my_favorite_cities.shift
+
+end
+
+
+def 
+  blue_bell_creameries = @ice_cream_brands.shift
+
+Blue Bell Creameries
 
 end
