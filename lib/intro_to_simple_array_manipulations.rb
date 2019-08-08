@@ -26,7 +26,7 @@ def "using_shift" do
 end
 
 
-def 
+def
   blue_bell_creameries = @ice_cream_brands.shift
 
 Blue Bell Creameries
