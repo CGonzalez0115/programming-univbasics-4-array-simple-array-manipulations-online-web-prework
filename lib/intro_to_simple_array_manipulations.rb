@@ -7,3 +7,8 @@ def "using_unshift" do
   bouroughs_in_nyc.unshift "Staten Island"
 
 end
+
+def "using_pop" do
+  @continents.pop
+
+end
