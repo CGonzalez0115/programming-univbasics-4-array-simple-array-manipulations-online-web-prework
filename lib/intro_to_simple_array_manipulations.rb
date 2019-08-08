@@ -12,3 +12,10 @@ def "using_pop" do
   @continents.pop
 
 end
+
+def "pop_with_args" do
+  @dog_breeds.pop
+
+dog_breeds
+
+end
