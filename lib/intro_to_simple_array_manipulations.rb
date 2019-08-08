@@ -19,3 +19,8 @@ def "pop_with_args" do
 dog_breeds
 
 end
+
+def "using_shift" do
+  lagos =  @my_favorite_cities.shift
+
+end
